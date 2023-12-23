@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(238, 238, 238);
+    
+}
+.container{
+    background: #ffffff;
+    border: 1px;
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+button{
+    background: rgb(4, 236, 4);
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+}
+
+button:hover{
+    background: green;
+}
+
+#result{
+    color: rgb(4, 236, 4);
+}
